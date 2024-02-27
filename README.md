@@ -2,7 +2,7 @@
 
 # Lifestyle Habits and Medical Conditions Influencing Diabetes
 
-This repository contains the project report and analysis code for the BUAN 6341.001 project, focusing on the influence of lifestyle habits and medical conditions on diabetes prevalence. The project was conducted by Group 12.
+This repository contains the project report and analysis code, focusing on the influence of lifestyle habits and medical conditions on diabetes prevalence. The project was conducted by Group 12.
 
 ## Project Overview:
 
